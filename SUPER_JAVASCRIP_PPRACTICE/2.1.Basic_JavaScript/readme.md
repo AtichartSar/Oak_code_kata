@@ -5,23 +5,13 @@
 
  ![image](images/comment.png)
 
- ```js
-1 sadasd
-2 sadasd
-```
+
 
  #### Declare JavaScript Variables
 
  ![image](images/declareVariables.png)
-**Example: Single Line Comment**
 
-// This is the first comment  
- // This is the second comment  
- // I am a single line comment
 
-**Example: Multiline Comment**
-- **_Inline script_**
-- **_Internal script_**
 
 ### Storing Values with the Assignment Operator
  ![image](images/Storing-Values-with-the-Assignment-Operator.PNG)
@@ -356,3 +346,16 @@
 ### Use Recursion to Create a Range of Numbers
  ![image](images/Use-Recursion-to-Create-a-Range-of-Numbers.png)
 
+  ```js
+1 sadasd
+2 sadasd
+```
+**Example: Single Line Comment**
+
+// This is the first comment  
+ // This is the second comment  
+ // I am a single line comment
+
+**Example: Multiline Comment**
+- **_Inline script_**
+- **_Internal script_**
